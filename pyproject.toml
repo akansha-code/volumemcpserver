@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "mcp[cli]>=1.13.1",
+    "pycaw>=20230119",
 ]
 
 [project.scripts]
